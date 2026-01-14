@@ -54,13 +54,13 @@ It is suitable for **traffic monitoring, intelligent transportation systems, and
 
 ## 📂 Project Structure
 
-
+```text
 vehicle-detection-project/
 │
 ├── detection_project.ipynb   # Main Jupyter Notebook
 ├── input_video.mp4           # Input traffic video (user provided)
 ├── README.md                 # Project documentation
-
+```
 ---
 
 📊 Speed Calculation Logic
