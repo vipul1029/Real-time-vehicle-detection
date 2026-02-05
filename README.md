@@ -82,11 +82,3 @@ Speed is displayed in km/h
 📐 Camera calibration for more accurate speed estimation
 
 ---
-
-📜 License
-
-This project is for educational and learning purposes.
-
----
-
-Developed by Me(Dron Patel) and My team.
